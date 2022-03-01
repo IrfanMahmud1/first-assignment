@@ -5,7 +5,7 @@ body{
 }
 .flexible-container{
     display: flex; 
-    margin-bottom: 100px;  
+    margin-bottom: 50px; 
 }
 h1{
     padding-left: 2%;
@@ -43,4 +43,43 @@ p{
     color: white;
     font-weight: 500;
     border-radius: 5px;   
+}
+.mission-width{
+    width: 30%;
+    margin-left: 10%;
+    padding: 0px 20px 30px 20px; 
+    background-color: rgb(248, 236, 238);
+    border-radius: 25px;  
+}
+.mission-width img{
+    width: 40%;
+    
+}
+.vission-width{
+    width: 30%;
+    margin-left: 2%;
+    padding: 0px 20px 30px 20px;
+    background-color: rgb(218, 241, 234); 
+    border-radius: 25px; 
+}
+.vission-width img{
+    width: 39%;
+}
+
+.goals-width{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 10%;
+    padding: 0px 20px 30px 20px;
+    background-color: rgb(243, 232, 216);
+    border-radius: 25px; 
+}
+.goals-width img{
+    width: 40%;
+}
+h2{
+    font-size: 40px;
+}
+#align{
+    text-align: center;
 }
