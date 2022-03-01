@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;    
+}
+.flexible-container{
+    display: flex; 
+    margin-bottom: 100px;  
+}
+h1{
+    padding-left: 2%;
+    border-left: 5px solid orange;
+    font-size: 50px;
+    margin: 0px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 5%;      
+}
+
+.half-width-extra{
+    margin-top: 6%;
+    
+}
+.color{
+    color: tomato;
+}
+.half-width img{
+    width: 80%;   
+}
+p{
+    margin-bottom: 30px;
+}
+#problem{
+    margin-top: 40px;
+}
+.link-button{
+    
+    text-decoration: none;
+    background-color:rgba(218, 43, 72, 0.904);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;   
+}
